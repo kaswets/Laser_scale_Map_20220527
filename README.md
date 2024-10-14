@@ -1,4 +1,4 @@
-#Laser control with MACH3
+# Laser control with MACH3
 
 
 Arduino Due programma.
